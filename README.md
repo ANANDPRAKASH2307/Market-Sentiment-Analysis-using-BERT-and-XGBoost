@@ -73,11 +73,6 @@ streamlit run streamlit_app.py
 ```bash
 pip install -r requirements.txt
 ```
-
-## 📝 Author
-
-Anand Prakash · [@anand-prakash](https://github.com/ANANDPRAKASH2307)
-
 ---
 
 **This is a sentiment classification project built as an end-to-end ML pipeline with model training, analysis, and deployment.**
